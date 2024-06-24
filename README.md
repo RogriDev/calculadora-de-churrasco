@@ -53,10 +53,6 @@ O estilo da aplicação é simples e limpo, utilizando a paleta de cores escuras
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato:
